@@ -1,0 +1,8 @@
+name: genetic-variant-annotator
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - flask
+  - requests
+
